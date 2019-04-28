@@ -3,6 +3,7 @@
  
 # Product
 ![](images/robot.png)
+
 #Musical performance robot. The robot to play music using the Line Trace Robo's phototransistor.
 
 # Circuit Diagram
