@@ -9,6 +9,10 @@
 # Circuit Diagram
 ![](images/diagram.png)
 Project used:
- - a piezoelectric speaker
- - arduino
- - line trace robot.
+ - A piezoelectric speaker
+ - Arduino UNO
+ - Line trace robot.
+
+# Challenges Point
+ - The robot couldn’t go straight.
+ - The noises 
